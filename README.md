@@ -1,6 +1,3 @@
 # Charge_distribution_conductor
-Simular la densidad de carga eléctrica en un conductor cargado bajo influencia de un campo magnético
-Incluir mejoras en:
--Mallado de las superficies.
--Importación de figuras en formatos de archivo 3d?
--...
+Simular la densidad de carga eléctrica en un conductor cargado bajo influencia de un campo magnético. Ahora sólo simula un toroide y una esfera.
+Se deben incluir mejoras: permitir la posibilidad de cargar modelos 3d, mallado para evitar singularidades, ampliar métodos de integración numérica...
